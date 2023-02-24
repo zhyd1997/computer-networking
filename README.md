@@ -14,3 +14,5 @@ On a whim one Sunday night (Feb 19th, 2023):
 **Chap. 2** --- *21th - 22th*
 
 **Assignments & Labs** --- *23th*
+
+**Chap. 3** -- ** 24th
